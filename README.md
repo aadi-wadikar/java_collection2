@@ -1,12 +1,12 @@
 # Collection Framework Replica
 
-This project is a custom implementation of the Java Collection Framework.
-Features
-    - ArrayList
-    - LinkedList
-    - Stack
-    - Queue
-    - Deque
+    - This project is a custom implementation of the Java Collection Framework.
+    - Features
+        - ArrayList
+        - LinkedList
+        - Stack
+        - Queue
+        - Deque
 
 ## Structure
     - core (for all base interfaces)

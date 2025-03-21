@@ -1,0 +1,20 @@
+# Ignore compiled class files
+*.class
+
+# Ignore test files
+Test.java
+Test.class
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+bin/
+out/
+target/

@@ -1,4 +1,4 @@
-# My Java Collection Framework
+# Collection Framework Replica
 
 This project is a custom implementation of the Java Collection Framework.
 Features

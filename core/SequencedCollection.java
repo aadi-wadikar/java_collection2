@@ -5,4 +5,6 @@ public interface SequencedCollection<T> extends Collection<T> {
     boolean addLast(T e);
     T removeFirst();
     T removeLast();
+    T getFirst();
+    T getLast();
 }
